@@ -14,7 +14,9 @@ For experiments, we used two datasets:
   * Healthy Dataset
     
 Dataset structure
-       ```
-![file_structure](https://github.com/sanuwanihewa/McCaD/assets/124846386/66edb103-e29a-46ad-84d3-e9483832d105)
+```bash
+# Example command
+your_command_here
+
 
 
