@@ -56,5 +56,6 @@ python test_brats.py --image_size 256 --exp exp_brats_flair --num_channels 1 --n
 ```
 
 **Acknowledgements**
-This repository makes liberal use of code from [Tackling the Generative Learning Trilemma]([http://braintumorsegmentation.org/](https://github.com/NVlabs/denoising-diffusion-gan)https://github.com/NVlabs/denoising-diffusion-gan)
+This repository makes liberal use of code from [Tackling the Generative Learning Trilemma](https://github.com/NVlabs/denoising-diffusion-gan)
+
 
