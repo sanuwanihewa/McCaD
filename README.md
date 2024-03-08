@@ -32,7 +32,7 @@ data/
 
 ```
 
-Use [converter.py](McCaD/converter.py) to convert 3D MRI data to 2D slices and save as .mat
+Use [converter.py](converter.py) to convert 3D MRI data to 2D slices and save as .mat
 
 **Train Autoencoder**
 ```
