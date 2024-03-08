@@ -49,6 +49,6 @@ python train_mccad.py --image_size 256 --exp exp_brats_flair --num_channels 1 --
 python test_brats.py --image_size 256 --exp exp_brats_flair --num_channels 1 --num_channels_dae 64 --ch_mult 1 1 2 2 4 4 --num_timesteps 4 --num_res_blocks 2 --batch_size 1 --embedding_type positional  --z_emb_dim 256 --contrast1 T1  --contrast2 T2 --which_epoch 50 --gpu_chose 0 --input_path '/data/BRATS/' --output_path '/results'
 ```
 
-#Acknowledgements
+**Acknowledgements**
 This repository makes liberal use of code from [Tackling the Generative Learning Trilemma]([http://braintumorsegmentation.org/](https://github.com/NVlabs/denoising-diffusion-gan)https://github.com/NVlabs/denoising-diffusion-gan)
 
