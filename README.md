@@ -14,9 +14,24 @@ For experiments, we used two datasets:
   * Healthy Dataset
     
 Dataset structure
-```bash
-# Example command
-your_command_here
+```
+data/
+├── BRATS/
+│   ├── train/
+│   │   ├── T1.mat
+│   │   └── T2.mat
+│   │   └── FLAIR.mat
+│   ├── test/
+│   │   ├── T1.mat
+│   │   └── T2.mat
+│   │   └── FLAIR.mat
+│   ├── val/
+│   │   ├── T1.mat
+│   │   └── T2.mat
+│   │   └── FLAIR.mat
+
+```
+
 
 
 
