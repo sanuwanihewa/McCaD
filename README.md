@@ -15,19 +15,6 @@ For experiments, we used two datasets:
     
 Dataset structure
        ```
-data/
-  ├── BRATS/
-  │   ├── train/
-  │   │   ├── T1_contrast.mat
-  │   │   └── T2_contrast.mat
-  │   │   └── FLAIR_contrast.mat
-  │   ├── test/
-  │   │   ├── T1_contrast.mat
-  │   │   └── T2_contrast.mat
-  │   │   └── FLAIR_contrast.mat
-  │   ├── val/
-  │   │   ├── T1_contrast.mat
-  │   │   └── T2_contrast.mat
-  │   │   └── FLAIR_contrast.mat
-  └
+![file_structure](https://github.com/sanuwanihewa/McCaD/assets/124846386/66edb103-e29a-46ad-84d3-e9483832d105)
+
 
