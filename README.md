@@ -1,5 +1,5 @@
 # McCaD: Multi-Contrast MRI Conditioned, Adaptive Adversarial Diffusion Model for Accurate Healthy and Tumor Brain MRI Synthesis
-This repo contains the official Pytorch implementation for McCaD (Accepted in WACV 2025).
+This repo contains the official Pytorch implementation for McCaD.
 
 ![alt text](img/McCaD_architecture.png)
 
