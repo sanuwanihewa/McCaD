@@ -1,7 +1,5 @@
 import os
-from med2image import med2image
 
-# Input folder containing NIfTI images
 import os
 import nibabel as nib
 import numpy as np
