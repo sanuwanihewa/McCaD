@@ -5,10 +5,10 @@ This repo contains the official Pytorch implementation for [McCaD](https://arxiv
 
 Network architecture of McCaD. **A**: Overall Architecture, **B**: Muti-scale Feature Guided Denosing Network, **C**: Adaptive Feature Maximizer, **D**: Feature Attentive Loss.
 
-**Environment**
+**Environment**  <br />
 Please prepare an environment with python>=3.8, and then run the command "pip install -r requirements.txt" for the dependencies.
 
-**Data Preparation**
+**Data Preparation**  <br />
 For experiments, we used two datasets:
   * Tumor Dataset : [BRaTS Dataset](http://braintumorsegmentation.org/)
   * Healthy Dataset
